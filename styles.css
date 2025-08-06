@@ -192,6 +192,7 @@ nav .container {
 .hero-content h1 {
     font-size: 3rem;
     margin-bottom: 20px;
+    border-radius: 8px;
 }
 
 .hero-content h1 span {
@@ -927,4 +928,5 @@ canvas {
     object-fit: cover; /* Keeps cover but lets you adjust position */
     object-position: top center; /* Focuses on your face */
     border: 5px solid var(--primary-color);
+
 }
