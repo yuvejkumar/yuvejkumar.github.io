@@ -882,7 +882,7 @@ footer {
 /* Hero Heading Animation */
 .hero-content h1 {
     animation: wave 3s ease-in-out infinite;
-     box-shadow: 0 19px 20px rgba(103, 224, 230, 0.4);
+     
 }
 
 .hero-content h1 span {
@@ -952,4 +952,5 @@ canvas {
     border: 5px solid var(--primary-color);
 
 }
+
 
